@@ -3,6 +3,7 @@
 ## Introduction Video
 [![Watch here](http://img.youtube.com/vi/e3R97JzPrK4/0.jpg)](https://www.youtube.com/watch?v=e3R97JzPrK4)
 
+
 Click the image to watch the video
 
 ## Note About Hardcoded Addresses
@@ -28,6 +29,7 @@ There is a security feature enabled on the operating system by default called AS
 
 ## Week 1 Lecture Video
 [![Watch here](http://img.youtube.com/vi/TjKoU5lSroY/0.jpg)](https://www.youtube.com/watch?v=TjKoU5lSroY)
+
 
 Get the slides [here](https://github.com/badwin00/CS395/blob/fe9e30b92f5863bc27d758bc62fb5e56514a2098/week1/Week%201%20Lecture.pdf)
 
