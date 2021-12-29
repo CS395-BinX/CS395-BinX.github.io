@@ -59,3 +59,6 @@ Get the homework problems and answers [here](./assignments.html)
 
 ## Final Project
 After you've completed all the homework assignments you're ready to take on [the final](./final.html)
+
+### Credits
+This course was created and taught by Nihaal Prasad and Sam Goodwin
