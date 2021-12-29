@@ -1,7 +1,9 @@
 # Week 2: Shellcoding
 
 ## Lecture Video
-[Watch here](???)
+[![Watch here](http://img.youtube.com/vi/xsjR-FV8krg/0.jpg)](https://www.youtube.com/watch?v=xsjR-FV8krg)
+
+
 Get the slides [here](https://github.com/badwin00/CS395/blob/07bc891578a1c6d2651c4f1a02dccbdbacd17907/week2/Week%202%20Lecture.pdf)
 
 ## Shellcode Files
@@ -11,7 +13,9 @@ These are the files that were used during the lecture.
 - [better_shell.asm](https://github.com/badwin00/CS395/blob/8111504d621720295a19c40c11d604a7b7a94168/week2/better_shell.asm)
 
 ## Optional Lecture
-[Watch here](???)
+[![Watch here](http://img.youtube.com/vi/8ony-vKxBJ8/0.jpg)](https://www.youtube.com/watch?v=8ony-vKxBJ8)
+
+
 Get the slides [here](https://github.com/badwin00/CS395/blob/8111504d621720295a19c40c11d604a7b7a94168/week2/Week%202%20Optional%20Lecture.pdf)
 
 ## Reading Material
