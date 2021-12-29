@@ -2,6 +2,7 @@
 
 ## Introduction Video
 [![Watch here](http://img.youtube.com/vi/e3R97JzPrK4/0.jpg)](https://www.youtube.com/watch?v=e3R97JzPrK4)
+Click the image to watch the video
 
 ## Note About Hardcoded Addresses
 Addresses can change between different computers even if ASLR is disabled. This means that the addresses that we use in our lectures may or may not be the same addresses that you'll use if you follow along with us during the lecture. Please do not just copy/paste the code that we give you in the lectures because the addresses that are hardcoded in the exploit may vary. Make sure that you understand how we found each address and what each line of code does.
@@ -25,7 +26,7 @@ Also an important reminder:
 There is a security feature enabled on the operating system by default called ASLR that randomizes stack addresses every time the binary is run, which can make it harder for us to exploit buffer overflows. We'll talk more about this and other exploit mitigations in week 6, but for now unless otherwise stated, we want to turn it off. To make this easy we put a script in ~/Desktop/CS395/ called aslr.sh. To disable ASLR simply run "./aslr.sh off". Likewise, to turn it on again run "./aslr.sh on". ASLR is automatically reactivated on reboot, so be sure to remember to disable it if you restart your VM. 
 
 ## Week 1 Lecture Video
-[Watch here](???)
+[![Watch here](http://img.youtube.com/vi/TjKoU5lSroY/0.jpg)](https://www.youtube.com/watch?v=TjKoU5lSroY)
 Get the slides [here](https://github.com/badwin00/CS395/blob/fe9e30b92f5863bc27d758bc62fb5e56514a2098/week1/Week%201%20Lecture.pdf)
 
 ## Demos
