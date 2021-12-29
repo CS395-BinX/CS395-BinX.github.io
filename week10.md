@@ -1,10 +1,13 @@
 # Week 10: Patching Binaries and Hooking
 
 ## Lecture Video 1
-[Watch here](???)
+[![Watch here](http://img.youtube.com/vi/rYrP3YoC_jE/0.jpg)](https://www.youtube.com/watch?v=rYrP3YoC_jE)
+
 
 ## Lecture Video 2
-[Watch here](???)
+[![Watch here](http://img.youtube.com/vi/3_48XNYh7oo/0.jpg)](https://www.youtube.com/watch?v=3_48XNYh7oo)
+
+
 Get the slides for both [here](???)
 
 ## Demos
