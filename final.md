@@ -6,52 +6,52 @@ Note that patching a binary is prohibited unless we give you explicit permisison
 # Problems:
 
 ## 10 points
-- [Patch Me](???)
+- [Patch Me](https://github.com/CS395-BinX/CS395-BinX.github.io/blob/main/final/patchme)
 
 As the name implies, you are allowed to solve this binary by patching it. This is the only binary you are allowed to solve via patching.
 
-- [Flip Me](???)
+- [Flip Me](https://github.com/CS395-BinX/CS395-BinX.github.io/blob/main/final/flipme)
 
 Flipping bits is fun!
 
 ## 15 points
-- [Cha-Cha Slide](???)
+- [Cha-Cha Slide](https://github.com/CS395-BinX/CS395-BinX.github.io/tree/main/final/cha-cha-slide)
 
 Everybody clap your hands!
 
-- [Buyshell](???)
+- [Buyshell](https://github.com/CS395-BinX/CS395-BinX.github.io/tree/main/final/buyshell)
 
 Your goal for your exploit is to obtain enough money to buy a shell
 
 ## 20 points
-- [Deadbeef](???)
+- [Deadbeef](https://github.com/CS395-BinX/CS395-BinX.github.io/blob/main/final/deadbeef)
 
 Typical stack buffer overflow. Note that there is a special integer that you must input at the start of your payload.
 
-- [Format's Last Theorem](???)
+- [Format's Last Theorem](https://github.com/CS395-BinX/CS395-BinX.github.io/tree/main/final/formats_last_theorem)
 
 I bet [Pierre de Fermat](https://www.britannica.com/science/Fermats-last-theorem) didn't know anything about format string vulnerabilities! Your goal here is to disprove Fermat's Last Theorem (not in real life though—just in the binary 🙂). Your exploit should work with ASLR enabled.
 
 ## 25 points
-- [Guessing Game](???)
+- [Guessing Game](https://github.com/CS395-BinX/CS395-BinX.github.io/blob/main/final/guessinggame)
 
 For this binary, you'll have to exploit a buffer overflow and a format string vulnerability at the same time. This binary introduces the concept of input validation, which is when a program checks to make sure that the input does not contain any characters that cause the program to behave differently (such as the '%' or '$' characters in format strings). Your goal here is to get the program to say, "you guessed <number>, which is correct!" You'll have to create an exploit that works when ASLR is enabled.
 
-- [Nihaal's Revenge](???)
+- [Nihaal's Revenge](https://github.com/CS395-BinX/CS395-BinX.github.io/tree/main/final/nihaals_revenge)
 
 Have you guys heard of the sweet new game *Nihaal's Revenge*??? I really want to play it, but i don't have enough money to buy a copy of my own! I found the part of the game that checks if you have a valid CD key for owning the game, could you guys find me a key that calls the win() function and lets me play the game? (Recommend using Z3, watch week 9 lecture first)
 
 ## 30 points
-- [Final Boss](???)
+- [Final Boss](https://github.com/CS395-BinX/CS395-BinX.github.io/tree/main/final/final_boss)
 
 Defeat the final boss and get the victory message to print. ASLR does not need to be enabled. You must use a ROP chain with at least two ROP gadgets to obtain full credit.
 
-- [Calculator](???)
+- [Calculator](https://github.com/CS395-BinX/CS395-BinX.github.io/tree/main/final/calculator)
 
 This is a calculator program that is vulnerable to a stack buffer overflow. You'll have to write an exploit that works when ASLR is enabled for this binary.
 
 ## Nihaal's Heap Challenge (60 points)
-- Challenge [here](???)
+- Challenge [here](https://github.com/CS395-BinX/CS395-BinX.github.io/tree/main/final/nihaals_heap_challenge)
 
 This exploit requires you to conduct a heap overflow, which is something that we have never gone over in our lectures. You will have to do some research on your own in order to get your exploit to work. ASLR must be enabled for this challenge. This is an extremely tough binary to exploit, which is why if you are able to submit a writeup for this binary, you will instantly get an A for your final project. Good luck for those who choose to exploit this binary!
 

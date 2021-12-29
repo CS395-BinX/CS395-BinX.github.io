@@ -8,17 +8,17 @@ The correct command is "pip3 install ipython"
 [Explains some basics](https://ericpony.github.io/z3py-tutorial/guide-examples.htm) and gives some example problems with answers
 
 ## Virtualenv and Angr install script
-[![Watch here](http://img.youtube.com/vi/UXEPk7su-tw/0.jpg)](https://www.youtube.com/watch?v=UXEPk7su-tw)
+Get it [here](https://github.com/CS395-BinX/CS395-BinX.github.io/blob/main/week9/angr_install)
 
 
 ## Lecture Video
 [![Watch here](http://img.youtube.com/vi/coZF8r0NES0/0.jpg)](https://www.youtube.com/watch?v=coZF8r0NES0)
 
 
-Get the slides [here](???)
+Get the slides [here](https://github.com/CS395-BinX/CS395-BinX.github.io/blob/main/week9/Z3%20and%20Angr.pdf)
 
 ## Demos
-Get them [here](???)
+Get them [here](https://github.com/CS395-BinX/CS395-BinX.github.io/tree/main/week9/demos)
 
 ## Assignments
 Continue working on the [final](./final.html)

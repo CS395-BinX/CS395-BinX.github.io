@@ -1,0 +1,11 @@
+#!/bin/sh
+sudo apt-get update
+pip3 install virtualenv
+pip3 install virtualenvwrapper
+pip3 install IPython
+export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+source /home/cs395/.local/bin/virtualenvwrapper.sh
+echo "export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3" >> ~/.zshrc
+echo "source /home/cs395/.local/bin/virtualenvwrapper.sh" >> ~/.zshrc
+echo "\nnow you can make a new virtual environment using 'mkvirtualenv [environment name]'"
+echo "after that, you'll be in the new environment and can 'pip3 install angr' safely!"

@@ -31,10 +31,10 @@ There is a security feature enabled on the operating system by default called AS
 [![Watch here](http://img.youtube.com/vi/TjKoU5lSroY/0.jpg)](https://www.youtube.com/watch?v=TjKoU5lSroY)
 
 
-Get the slides [here](https://github.com/badwin00/CS395/blob/fe9e30b92f5863bc27d758bc62fb5e56514a2098/week1/Week%201%20Lecture.pdf)
+Get the slides [here](https://github.com/CS395-BinX/CS395-BinX.github.io/blob/main/week1/Week%201%20Lecture.pdf)
 
 ## Demos
-[Code examples](???) used in the lecture
+[Code examples](https://github.com/CS395-BinX/CS395-BinX.github.io/tree/main/week1) used in the lecture
 
 ## Optional Material
 [Integer Representation Review](https://cs.wellesley.edu/~cs240/s17/slides/integers.pdf)

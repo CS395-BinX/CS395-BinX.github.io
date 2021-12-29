@@ -8,10 +8,10 @@
 [![Watch here](http://img.youtube.com/vi/3_48XNYh7oo/0.jpg)](https://www.youtube.com/watch?v=3_48XNYh7oo)
 
 
-Get the slides for both [here](???)
+Get the slides for both [here](https://github.com/CS395-BinX/CS395-BinX.github.io/blob/main/week10/Week%2010%20Lecture.pdf)
 
 ## Demos
-Get them [here](???)
+Get them [here](https://github.com/CS395-BinX/CS395-BinX.github.io/tree/main/week10/demos)
 
 ## Optional Material
 
