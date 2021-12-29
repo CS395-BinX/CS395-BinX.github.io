@@ -1,7 +1,7 @@
 # Week 1: Introduction, Integer Overflows, and Basic Buffer Overflows
 
 ## Introduction Video
-[Watch here](XXX)
+[![Watch here](http://img.youtube.com/vi/e3R97JzPrK4/0.jpg)](https://www.youtube.com/watch?v=e3R97JzPrK4)
 
 ## Note About Hardcoded Addresses
 Addresses can change between different computers even if ASLR is disabled. This means that the addresses that we use in our lectures may or may not be the same addresses that you'll use if you follow along with us during the lecture. Please do not just copy/paste the code that we give you in the lectures because the addresses that are hardcoded in the exploit may vary. Make sure that you understand how we found each address and what each line of code does.
